@@ -1,0 +1,17 @@
+.row{
+    
+    margin-top: 10em;
+    margin-left: 12em;
+    text-align: center;
+    
+}
+
+.card{
+    color: lawngreen;
+    background-color: rgba(0, 0, 0, 0.856);
+
+}
+
+.btn{
+    color: lawngreen;
+}
